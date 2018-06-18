@@ -1,2 +1,2 @@
 # HeadFirstDataAnalysis
-HeadFirstデータ解析
+HeadFirstデータ解析の輪読会用リポジトリ
